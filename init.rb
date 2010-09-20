@@ -14,7 +14,7 @@ end
 Redmine::Plugin.register :redmine_csv_with_bom do
   name 'Redmine CSV with BOM plugin'
   author 'TOMITA Masahiro'
-  description 'This is a plugin for Redmine to prepend '
+  description 'This is a plugin for Redmine to prepend BOM to CSV'
   version '0.0.1'
   url 'http://github.com/tmtm/redmine_csv_with_bom'
   author_url 'http://github.com/tmtm'
